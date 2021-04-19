@@ -1,5 +1,4 @@
-## Welcome to NFPE Pages
-Project Shaders Bedrock Edition - Coded by OSBES
+# _Welcome to NFPE Pages!.._
 
 ![](https://api.mcpedl.com/storage/submissions/54070/101/nfpe-shaders_1-520x245.png)
 
