@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "NFPE Bedrock Edition Shader",
+    "name": "NFPE",
+    "uuid": "05c5396b-8a4b-4f83-8d24-1a4edc368745",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 100]
+  },
+  "modules": [
+    {
+      "description": "NFPE Bedrock Edition Shader",
+      "type": "resources",
+      "uuid": "fafed0b5-abd3-4eeb-82b7-ac9ac08620bd",
+      "version": [1, 0, 0]
+    }
+  ]
+}
