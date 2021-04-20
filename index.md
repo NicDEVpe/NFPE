@@ -25,3 +25,7 @@
 
 _0.1v_
 **»** [[NFPE.zip]](https://github.com/NicDEVpe/NFPE/releases/tag/zip0.1v) [[NFPE.mcpack]](https://github.com/NicDEVpe/NFPE/releases/tag/mcpack0.1v) **«**
+
+Credits:
+
+[[Jebbyk]](https://github.com/jebbyk/OSBES-minecraft-bedrock-edition-shader)
